@@ -13,5 +13,5 @@ torch-geometric >= 2.0
 
 <h2> Experiment </h2>
 <p>
-Please run the <em>run_gnnguard</em> and <em>run_flag</em> files.
+Please run the <em>run_gnnguard</em>, <em>run_flag</em> and <em>run_cora</em> files.
 </p>
